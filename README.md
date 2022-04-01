@@ -1,4 +1,4 @@
-## Oi, Aléxia aqui!
+## Oi, Aléxia aqui! 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atravesdolabirinto/)
@@ -18,3 +18,7 @@
 ### Playlist para estudar
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7bnPg5K0iQeWWD6cEDpNnk?si=9a44200e19814dfa)
+
+<p align="left">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/68659860/161349922-03677b4d-2b43-417c-a230-6668f83d6082.gif">
+  </p>
